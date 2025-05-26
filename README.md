@@ -7,7 +7,8 @@
 ## 项目概述​
 
 - 本项目为江西财经大学硕士毕业论文全流程的子项目
-- 项目起初源于开题答辩，使用的是Beamer形式
+- 项目起初源于开题答辩，使用的是Beamer形式的幻灯片进行开题答辩
+- 本项目在[Github](https://github.com/MaxforCherubim/Jxufe-thesis-defence-Beamer-template)和[Gitee](https://gitee.com/maxforcherubim/Jxufe-thesis-defence-Beamer-template)上同步更新，欢迎各位学弟学妹提交反馈，共同完善此模板
 
 > [Beamer](https://github.com/josephwright/beamer)是一款基于[$\LaTeX$](https://www.latex-project.org/)的幻灯片制作工具
 
@@ -16,7 +17,7 @@
     3. 劣势是不太支持动画效果，也没有多少交互式体验，是挺适合数学类论文展示需求。
 
 - 本项目特别之处在于使用[Quarto](https://quarto.org/)来输出Beamer
-    1. 这样无需学习LaTeX语法或者少量学习乃至AI输出部分，就可以轻松得到所需的Beamer幻灯片
+    1. 这样无需学习LaTeX语法或者少量学习，甚至AI输出部分，就可以轻松得到所需的Beamer幻灯片
     2. 本质是使用Quarto来驾驶Beamer输出，所以只需一个Quarto模版即可
 
 > <a href="https://quarto.org/"><img src="imgs/logos/quarto.png" style="vertical-align: middle; margin-top: -2px" width="80"></a>是一款优秀的排版系统，可以输出HTML，PDF，Word等多种格式的文档
