@@ -10,6 +10,7 @@
 - 项目起初源于开题答辩，使用的是Beamer形式
 
 > [Beamer](https://github.com/josephwright/beamer)是一款基于[$\LaTeX$](https://www.latex-project.org/)的幻灯片制作工具
+
     1. Beamer优势是输出格式为PDF，具有较高的打印质量，同时不易更改，是个较为静态无交互的幻灯片。
     2. 显然使用Beamer制作的幻灯片作为PDF，可以轻松在任何平台上浏览；你可以随意使用自己喜欢的字体、排版等风格；导出的幻灯片可以静态地呈现你的一切，不受设备因素影响。
     3. 劣势是不太支持动画效果，也没有多少交互式体验，是挺适合数学类论文展示需求。
@@ -18,9 +19,9 @@
     1. 这样无需学习LaTeX语法或者少量学习乃至AI输出部分，就可以轻松得到所需的Beamer幻灯片
     2. 本质是使用Quarto来驾驶Beamer输出，所以只需一个Quarto模版即可
 
-> <a href="https://quarto.org/"><img src="imgs/logos/quarto.png" style="vertical-align: middle; margin-top: 20px" width="80"></a>是一款优秀的排版系统
-    1. Quarto最大的优势是可以在一个文档中同时数学文字和代码，而且代码可以直接运行，其运行结果直接嵌入文档中，这就使得文档本身是可以自动化的。比如根据不同客户的数据输出各自的报告，只需要准备好Quarto模版和数据，就可以直接生成成百上千的客户报告，还是精排的。
+> <a href="https://quarto.org/"><img src="imgs/logos/quarto.png" style="vertical-align: middle; margin-top: -2px" width="80"></a>是一款优秀的排版系统
 
+    1. Quarto最大的优势是可以在一个文档中同时数学文字和代码，而且代码可以直接运行，其运行结果直接嵌入文档中，这就使得文档本身是可以自动化的。比如根据不同客户的数据输出各自的报告，只需要准备好Quarto模版和数据，就可以直接生成成百上千的客户报告，还是精排的。
     2. 劣势是学习曲线较陡峭，且自定义程度不算高，有些个性化需求需要自己写代码实现。
 
 ## 使用方法​
