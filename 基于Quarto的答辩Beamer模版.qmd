@@ -18,7 +18,7 @@ format:
     lot: true
 
 lang: zh-CN
-mainfont: LXGW Bright
+# mainfont: LXGW Bright
 ---
 
 # 选题背景与实践意义

@@ -35,18 +35,21 @@
 ## 注意事项​
 
 1. 强烈建议先仔细学习一下Quarto的[Get Started](https://quarto.org/docs/get-started/)章节，熟悉Quarto的基本用法
-2. 本项目较为傻瓜，安装好Quarto和Vscode对应的Quarto插件后，就可以运行本项目了，排版自己的Beamer幻灯片了。如果过程中产生了多种问题，请在讨论区创建相关讨论[点击前往讨论区](discussions)，我都会尽力解答的
-3. 由于Quarto的不断更新，可能会导致本项目产生Bug，除此之外还可能会有其他Bug，请在Github上提交issue，我会及时修复
+2. 本项目较为傻瓜，安装好Quarto和Vscode对应的Quarto插件后，就可以运行本项目了，排版自己的Beamer幻灯片了。如果过程中产生了多种问题，请在[讨论区](https://github.com/MaxforCherubim/Jxufe-thesis-defence-Beamer-template/discussions)创建相关讨论，我都会尽力解答的
+3. 由于Quarto的不断更新，可能会导致本项目产生Bug，除此之外还可能会有其他Bug，请在Github上提交[issue](https://github.com/MaxforCherubim/Jxufe-thesis-defence-Beamer-template/issues)，我会及时修复
+4. 本项目模版使用的字体是[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)字体族中的[LXGW Bright](https://github.com/lxgw/LxgwBright)字体，本项目并没有附带该字体，感兴趣的可以自行根据链接下载使用，或者使用自己喜欢的字体
+> LXGW Bright 是由Ysabeau系列字体（英文）与霞鹜文楷系列字体（中文）合并而成的字体
 
 ## 贡献指南​
 
-<!-- 鼓励用户对模板提出改进建议、报告格式错误或不规范处。​
-说明贡献方式，如提交 Pull Request、在 Issues 中反馈等。​
-对贡献者表示感谢并提及贡献会带来的积极影响。​ -->
+- 本项目强烈呼吁各位使用者即各位学弟学妹提交反馈，包括但不限于在使用过程中遇到的问题、想到的建议，甚至是小白问题都可以在讨论区创建讨论，我会及时参与讨论的！**我们的所有互动都会成为后来者的学习资料，请积极参加！**
+- 如果对本项目感兴趣，甚至想要进一步开发，欢迎提交PR！
 
 ## 联系方式​
 
-<!-- 留下模板维护者或项目发起人的邮箱等联系方式，方便交流。​ -->
+- 本项目作者是章迎潭，本科17级经济统计1班，硕士23级应用统计2班
+- 导师为数理统计系马海强
+- 邮件：<EMAIL>bay237580157@outlook.com
 
 ## 许可证信息​
 
