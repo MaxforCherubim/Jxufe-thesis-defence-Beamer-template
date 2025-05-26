@@ -1,0 +1,154 @@
+---
+title: 开题报告
+subtitle: 你的论文标题
+date: 2024/6/6
+author: 你的名字
+institute: 你的学院
+
+format:
+  beamer:
+    theme: CambridgeUS
+    navigation: empty
+    header-includes: |
+      \titlegraphic{\includegraphics[width=0.4\paperwidth]{imgs/logos/jxufe_full1.jpeg}}
+      \setlength{\parindent}{2em}
+    toc: true
+    toc-title: 目录
+    lof: true
+    lot: true
+
+lang: zh-CN
+mainfont: LXGW Bright
+---
+
+# 选题背景与实践意义
+
+## 选题背景
+
+###
+
+正文正文正文正文正文正文正文正文正文[^1]正文正文正文正文正文正文正文正文正文正文
+
+[^1]: 脚注1
+
+## 实践意义
+
+###
+
+- 无序列表1
+- 无序列表2
+
+# 文献综述
+
+## 国内外研究现状简述
+
+###
+
+1. 有序列表1
+2. 有序列表2
+
+## 研究难点与创新点
+
+### 研究难点
+
+- 无序列表结合有序列表
+  1. 无序列表中的有序列表1
+  2. 无序列表中的有序列表2
+
+### 创新点
+
+1. 有序列表结合无序列表
+  - 有序列表中的无序列表1
+  - 有序列表中的无序列表2
+
+# 基本结构设想
+
+## 流程图
+
+###
+
+- 插入图片的语法，默认居中，可控制图片大小
+
+![论文流程图](imgs/论文流程图.png){width=50%}
+
+## 大纲
+
+###
+
+:::: {.columns}
+
+::: {.column width="50%"}
+1 **绪论**\newline <!-- 强制换行 -->
+\hspace*{10pt} <!-- 强制缩紧 -->
+  1.1 研究背景与意义\newline
+\hspace*{10pt}
+  1.2 文献综述\newline
+\hspace*{10pt}
+  1.3 研究难点与研究内容\newline
+\hspace*{10pt}
+  1.4 本文创新点\newline
+\hspace*{\fill}\newline
+2 **理论基础**\newline
+\hspace*{10pt}
+  2.1 二级标题
+:::
+
+::: {.column width="50%"}
+3 **数据集构建**\newline
+\hspace*{10pt}
+  3.1 样本选取\newline
+  \hspace*{20pt}
+  3.1.1 数据来源\newline
+  \hspace*{20pt}
+  3.1.2 数据说明\newline
+\hspace*{10pt}
+  3.2 数据清洗\newline
+  \hspace*{20pt}
+  3.2.1 异常值与缺失值处理\newline
+  \hspace*{20pt}
+  3.2.2 数据集划分\newline
+  \hspace*{20pt}
+  3.2.3 数据标准化\newline
+
+:::
+
+::::
+
+###
+
+:::: {.columns}
+
+::: {.column width="48%"}
+4 **模型构建**\newline
+\hspace*{10pt}
+  4.1 二级标题\newline
+  \hspace*{20pt}
+  4.1.1 三级标题
+:::
+
+::: {.column width="52%"}
+5 **实证分析**\newline
+\hspace*{10pt}
+  5.1 模型评价指标\newline
+6 **结论与展望**\newline
+\hspace*{10pt}
+  6.1 研究结论与建议\newline 
+\hspace*{10pt}
+  6.2 研究不足与展望\newline
+:::
+
+::::
+
+# 预计工作量与问题估计
+
+###
+
+- 无序列表\newline
+  1)测试文本\newline
+  2)测试文本\newline
+
+- 无序列表
+  1. 有序列表1
+  2. 有序列表2
+
+可以看出无序列表下的有序列表字体变小了，两种排版自行选取。
