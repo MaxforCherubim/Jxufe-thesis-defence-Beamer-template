@@ -1,8 +1,6 @@
 ![jxufe](imgs/logos/江西财经大学-logo.svg)
 
----
-# 江西财经大学<br>答辩Beamer模板
----
+# 江西财经大学答辩Beamer模板
 
 为酱菜学子提供方便好用的答辩Beamer形式Quarto模板
 
@@ -21,24 +19,24 @@
     1. 这样无需学习LaTeX语法或者少量学习乃至AI输出部分，就可以轻松得到所需的Beamer幻灯片
     2. 本质是使用Quarto来驾驶Beamer输出，所以只需一个Quarto模版即可
 
-> <a href="https://quarto.org/"><img src="imgs/logos/quarto.png" style="vertical-align: middle; margin-top: -2px" width="80"></a>是一款优秀的排版系统
+> <a href="https://quarto.org/"><img src="imgs/logos/quarto.png" style="vertical-align: middle; margin-top: -2px" width="80"></a>是一款优秀的排版系统，可以输出HTML，PDF，Word等多种格式的文档
 
     1. Quarto最大的优势是可以在一个文档中同时数学文字和代码，而且代码可以直接运行，其运行结果直接嵌入文档中，这就使得文档本身是可以自动化的。比如根据不同客户的数据输出各自的报告，只需要准备好Quarto模版和数据，就可以直接生成成百上千的客户报告，还是精排的。
     2. 劣势是学习曲线较陡峭，且自定义程度不算高，有些个性化需求需要自己写代码实现。
 
 ## 使用方法​
 
-<!-- 指导如何下载模板文件（提供清晰下载路径说明）。
-分步讲解在 Word 软件中打开模板及开始撰写论文的操作。​
-举例说明如何根据自身内容修改标题、替换文本、插入图表等。​ -->
-
-
+1. 下载并安装Quarto，具体教程请参考[Get Started](https://quarto.org/docs/get-started/)
+> MacOS的可以使用brew安装
+2. 在Vscode（建议）中安装Quarto插件
+3. Git clone本项目到本地
+4. 在Vscode中打开本项目，修改Quarto模版文件内容为你自己的内容，运行后即可输出你的Beamer幻灯片
 
 ## 注意事项​
 
-<!-- 提醒用户注意学校格式要求可能存在更新，需及时核对。​
-说明模板部分样式若需微调的注意要点及操作方法。​
-告知在使用过程中可能遇到的问题及初步解决思路。​ -->
+1. 强烈建议先仔细学习一下Quarto的[Get Started](https://quarto.org/docs/get-started/)章节，熟悉Quarto的基本用法
+2. 本项目较为傻瓜，安装好Quarto和Vscode对应的Quarto插件后，就可以运行本项目了，排版自己的Beamer幻灯片了。如果过程中产生了多种问题，请在讨论区创建相关讨论[点击前往讨论区](discussions)，我都会尽力解答的
+3. 由于Quarto的不断更新，可能会导致本项目产生Bug，除此之外还可能会有其他Bug，请在Github上提交issue，我会及时修复
 
 ## 贡献指南​
 
