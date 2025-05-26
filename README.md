@@ -18,8 +18,7 @@
     1. 这样无需学习LaTeX语法或者少量学习乃至AI输出部分，就可以轻松得到所需的Beamer幻灯片
     2. 本质是使用Quarto来驾驶Beamer输出，所以只需一个Quarto模版即可
 
-> <a href="https://quarto.org/"><img src="imgs/logos/quarto.png" style="vertical-align: middle; margin-top: -2px" width="80"></a>是一款优秀的排版系统
-
+> <a href="https://quarto.org/"><img src="imgs/logos/quarto.png" style="vertical-align: middle; margin-top: 20px" width="80"></a>是一款优秀的排版系统
     1. Quarto最大的优势是可以在一个文档中同时数学文字和代码，而且代码可以直接运行，其运行结果直接嵌入文档中，这就使得文档本身是可以自动化的。比如根据不同客户的数据输出各自的报告，只需要准备好Quarto模版和数据，就可以直接生成成百上千的客户报告，还是精排的。
 
     2. 劣势是学习曲线较陡峭，且自定义程度不算高，有些个性化需求需要自己写代码实现。
