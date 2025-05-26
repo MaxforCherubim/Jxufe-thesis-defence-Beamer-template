@@ -1,6 +1,8 @@
 ![jxufe](imgs/logos/江西财经大学-logo.svg)
 
-# <center>江西财经大学<br>答辩Beamer模板</center>
+---
+# 江西财经大学<br>答辩Beamer模板
+---
 
 为酱菜学子提供方便好用的答辩Beamer形式Quarto模板
 
