@@ -53,4 +53,4 @@
 
 ## 许可证信息​
 
-<!-- 说明模板所采用的开源许可证类型及相关权益规定。 -->
+本项目开源许可证为[MIT license](https://opensource.org/license/mit/)
