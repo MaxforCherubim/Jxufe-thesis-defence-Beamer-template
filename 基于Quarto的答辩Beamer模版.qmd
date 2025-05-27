@@ -10,7 +10,7 @@ format:
     theme: CambridgeUS
     navigation: empty
     header-includes: |
-      \titlegraphic{\includegraphics[width=0.4\paperwidth]{imgs/logos/jxufe_full1.jpeg}}
+      \titlegraphic{\includegraphics[width=0.4\paperwidth]{imgs/logos/jxufe_full.jpeg}}
       \setlength{\parindent}{2em}
     toc: true
     toc-title: 目录
@@ -18,7 +18,7 @@ format:
     lot: true
 
 lang: zh-CN
-# mainfont: LXGW Bright
+mainfont: LXGW Bright
 ---
 
 # 选题背景与实践意义
@@ -29,6 +29,8 @@ lang: zh-CN
 
 正文正文正文正文正文正文正文正文正文[^1]正文正文正文正文正文正文正文正文正文正文
 
+\textcolor{red}{本项目幻灯片长宽比是4:3，不是经典的16:9，请注意}
+
 [^1]: 脚注1
 
 ## 实践意义
@@ -38,6 +40,12 @@ lang: zh-CN
 - 无序列表1
 - 无序列表2
 
+- 一级无序列表
+  - 二级无序列表
+    - 三级无序列表
+
+> 引用内容
+
 # 文献综述
 
 ## 国内外研究现状简述
@@ -46,6 +54,14 @@ lang: zh-CN
 
 1. 有序列表1
 2. 有序列表2
+
+3. 一级有序列表
+
+  3.1 二级有序列表
+
+    3.1.1 三级有序列表
+
+很显然本模版没有二级和三级标题没有太多样式
 
 ## 研究难点与创新点
 
