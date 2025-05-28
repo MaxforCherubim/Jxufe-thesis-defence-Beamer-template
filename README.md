@@ -6,7 +6,7 @@
 
 ## 项目概述​
 
-- 本项目为江西财经大学硕士毕业论文全流程的子项目
+- 本项目为[江西财经大学硕士毕业论文全流程](https://github.com/MaxforCherubim/Jxufe-master-thesis-process)的子项目
 - 项目起初源于开题答辩，使用的是Beamer形式的幻灯片进行开题答辩
 - 本项目在[Github](https://github.com/MaxforCherubim/Jxufe-thesis-defence-Beamer-template)和[Gitee](https://gitee.com/maxforcherubim/Jxufe-thesis-defence-Beamer-template)上同步更新，欢迎各位学弟学妹提交反馈，共同完善此模板
 
@@ -16,9 +16,9 @@
     2. 显然使用Beamer制作的幻灯片作为PDF，可以轻松在任何平台上浏览；你可以随意使用自己喜欢的字体、排版等风格；导出的幻灯片可以静态地呈现你的一切，不受设备因素影响。
     3. 劣势是不太支持动画效果，也没有多少交互式体验，是挺适合数学类论文展示需求。
 
-- 本项目特别之处在于使用[Quarto](https://quarto.org/)来输出Beamer
+- 本项目特别之处在于使用[Quarto](https://quarto.org/)来输出[Beamer](https://github.com/josephwright/beamer)幻灯片
     1. 这样无需学习LaTeX语法或者少量学习，甚至AI输出部分，就可以轻松得到所需的Beamer幻灯片
-    2. 本质是使用Quarto来驾驶Beamer输出，所以只需一个Quarto模版即可
+    2. 本质是使用Quarto来驾驭Beamer输出，所以只需一个Quarto模版即可
 
 > <a href="https://quarto.org/"><img src="imgs/logos/quarto.png" style="vertical-align: middle; margin-top: -2px" width="80"></a>是一款优秀的排版系统，可以输出HTML，PDF，Word等多种格式的文档
 
@@ -49,7 +49,7 @@
 ## 联系方式​
 
 - 本项目作者是章迎潭，本科17级经济统计1班，硕士23级应用统计2班
-- 导师为数理统计系马海强
+- 导师为数理统计系马海强教授
 - 邮件：<EMAIL>bay237580157@outlook.com
 
 ## 许可证信息​
