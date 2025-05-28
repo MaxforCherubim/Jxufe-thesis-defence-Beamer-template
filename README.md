@@ -1,4 +1,4 @@
-![jxufe](imgs/logos/江西财经大学-logo.svg)
+[![jxufe](imgs/logos/江西财经大学-logo.svg)](https://www.jxufe.edu.cn/)
 
 # 江西财经大学答辩Beamer模板
 
@@ -37,7 +37,7 @@
 
 1. 强烈建议先仔细学习一下Quarto的[Get Started](https://quarto.org/docs/get-started/)章节，熟悉Quarto的基本用法
 2. 本项目较为傻瓜，安装好Quarto和Vscode对应的Quarto插件后，就可以运行本项目了，排版自己的Beamer幻灯片了。如果过程中产生了多种问题，请在[讨论区](https://github.com/MaxforCherubim/Jxufe-thesis-defence-Beamer-template/discussions)创建相关讨论，我都会尽力解答的
-3. 由于Quarto的不断更新，可能会导致本项目产生Bug，除此之外还可能会有其他Bug，请在Github上提交[issue](https://github.com/MaxforCherubim/Jxufe-thesis-defence-Beamer-template/issues)，我会及时修复
+3. 由于Quarto的不断更新，可能会导致本项目产生Bug，除此之外还可能会有其他Bug，请在Github上提交[issues](https://github.com/MaxforCherubim/Jxufe-thesis-defence-Beamer-template/issues)，我会及时修复
 4. 本项目模版使用的字体是[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)字体族中的[LXGW Bright](https://github.com/lxgw/LxgwBright)字体，本项目并没有附带该字体，感兴趣的可以自行根据链接下载使用，或者使用自己喜欢的字体
 > LXGW Bright 是由Ysabeau系列字体（英文）与霞鹜文楷系列字体（中文）合并而成的字体
 
