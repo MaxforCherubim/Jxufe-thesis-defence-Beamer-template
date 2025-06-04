@@ -2,7 +2,7 @@
 
 # 江西财经大学答辩Beamer模板
 
-![License](https://custom-icon-badges.demolab.com/github/license/MaxforCherubim/Jxufe-thesis-defence-Beamer-template?logo=law) ![Static Badge](https://img.shields.io/badge/LaTeX-Beamer?logo=latex&logoColor=%23008080) ![Static Badge](https://img.shields.io/badge/Quarto-Beamer?logo=quarto&logoColor=%2339729E)
+[![License](https://custom-icon-badges.demolab.com/github/license/MaxforCherubim/Jxufe-thesis-defence-Beamer-template?logo=law)](https://opensource.org/licenses/MIT) [![LaTeX](https://img.shields.io/badge/LaTeX-Beamer?logo=latex&logoColor=%23008080)](https://www.latex-project.org/) [![Quarto](https://img.shields.io/badge/Quarto-Beamer?logo=quarto&logoColor=%2339729E)](https://quarto.org/)
 
 为酱菜学子提供方便好用的答辩Beamer形式Quarto模板
 
